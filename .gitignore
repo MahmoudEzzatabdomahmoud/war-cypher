@@ -1,0 +1,27 @@
+# Environment Variables
+.env
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+ENV/
+env/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Local Test Data & Payloads
+test_carrier.png
+test_stego.png
+*.txt
+payloads/
+outputs/
+
+# OS Specific
+Thumbs.db
+.DS_Store
